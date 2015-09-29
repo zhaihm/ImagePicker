@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "27649A41F15E47A01A7657FE04D52A3BC99F1E48",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "27649A41F15E47A01A7657FE04D52A3BC99F1E48" : 0,
+    "BE5B29BA066D1B737CD16937DA30500313C20AFA" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F192CED3-7CB9-442A-B538-4A7263F357F0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "27649A41F15E47A01A7657FE04D52A3BC99F1E48" : "ImagePicker\/",
+    "BE5B29BA066D1B737CD16937DA30500313C20AFA" : "..\/.."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ImagePicker",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ImagePicker.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/zhaihm\/ImagePicker.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "27649A41F15E47A01A7657FE04D52A3BC99F1E48"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "115.159.95.210:here\/Here.App.iOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BE5B29BA066D1B737CD16937DA30500313C20AFA"
+    }
+  ]
+}
